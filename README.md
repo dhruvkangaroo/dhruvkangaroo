@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dhruv and I'm a 15 year old programmer from Whitby!</h2>
+<h2 align="left">Hi 👋! I'm Dhruv!</h2>
 
 ###
 
